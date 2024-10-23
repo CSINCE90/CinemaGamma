@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-8">
+            <h1 class="display-4 mb-4">Benvenuto al Cinema Gamma!</h1>
+            <p class="lead">Scopri i migliori film in programmazione.</p>
+            <img src="~/images/th.jpg" alt="Cinema Gamma" style="height: 800px;" />
+
+            <section class="featured-movies mt-5">
+                <h2 class="mb-3">Film in Evidenza</h2>
+                <div class="row">
+                    @foreach (var movie in Model.FeaturedMovies)
+                    {
+                        <div class="col-md-4 mb-4">
+                            <div class="card">
+                                <img src="@movie.ImageUrl" class="card-img-top" alt="@movie.Title">
+                                <div class="card-body">
+                                    <h5 class="card-title">@movie.Title</h5>
+                                    <p class="card-text">@movie.Description.Substring(0, Math.Min(100, movie.Description.Length))...</p>
+                                    <a href="@Url.Action("Details", "Movies", new { id = movie.Id })" class="btn btn-primary">Dettagli</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </section>
+
+            <a href="@Url.Action("Index", "Movies")" class="btn btn-outline-primary mt-3">Esplora tutti i Film</a>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0">Acquista il tuo biglietto</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Transaction" asp-action="Purchase" method="get">
+                        <div class="mb-3">
+                            <label for="movieSelect" class="form-label">Seleziona il film</label>
+                            <select id="movieSelect" name="film" class="form-select" required>
+                                <option value="">Scegli un film</option>
+                                @foreach (var movie in Model.AllMovies)
+                                {
+                                    <option value="@movie.Title">@movie.Title</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="dateSelect" class="form-label">Seleziona la data</label>
+                            <input type="date" class="form-control" id="dateSelect" name="data" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="auditoriumSelect" class="form-label">Seleziona la sala</label>
+                            <select id="auditoriumSelect" name="sala" class="form-select" required>
+                                <option value="">Scegli la sala</option>
+                                @foreach (var auditorium in Model.AllAuditorium)
+                                {
+                                    <option value="@auditorium.Name">@auditorium.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="timeSelect" class="form-label">Seleziona l'orario</label>
+                            <select id="timeSelect" name="orario" class="form-select" required>
+                                <option value="">Scegli un orario</option>
+                                <option value="18:00">18:00</option>
+                                <option value="20:30">20:30</option>
+                                <option value="22:45">22:45</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="ticketCount" class="form-label">Numero di biglietti</label>
+                            <input type="number" class="form-control" id="ticketCount" name="numeroBiglietti" min="1" max="10" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Acquista Ora</button>
+                    </form>
+                </div>
+            </div>
+        </div>

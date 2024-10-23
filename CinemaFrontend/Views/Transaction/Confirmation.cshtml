@@ -1,0 +1,21 @@
+﻿@model CinemaFrontend.DTO.TransactionDTO
+
+<h2>Acquisto Confermato</h2>
+
+<div class="alert alert-success" role="alert">
+    <h4 class="alert-heading">Grazie per il tuo acquisto!</h4>
+    <p>La tua transazione è stata completata con successo.</p>
+</div>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <h5 class="card-title">Dettagli della transazione</h5>
+        <p><strong>Numero transazione:</strong> @Model.Id</p>
+        <p><strong>ID Prenotazione:</strong> @Model.ReservationId</p>
+        <p><strong>Importo totale:</strong> €@Model.Amount</p>
+        <p><strong>Metodo di pagamento:</strong> @Model.PaymentMethod</p>
+        <p><strong>Data della transazione:</strong> @Model.TransactionDate</p>
+    </div>
+</div>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Torna alla Home</a>

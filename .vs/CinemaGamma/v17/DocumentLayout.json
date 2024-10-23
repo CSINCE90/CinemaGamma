@@ -1,0 +1,1040 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\frontcontrollers\\transactionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\frontcontrollers\\transactionapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\frontcontrollers\\reservationapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\frontcontrollers\\reservationapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\frontcontrollers\\moviesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\frontcontrollers\\moviesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\frontcontrollers\\cinemaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\frontcontrollers\\cinemaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\frontcontrollers\\auditoriumapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\frontcontrollers\\auditoriumapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\cinemafrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\cinemafrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\cinemabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\cinemabackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\transaction\\purchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\transaction\\purchase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\transaction\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\transaction\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dto\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\home\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\home\\adminonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\controllers\\cinemaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\controllers\\cinemaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\cinemas\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\cinemas\\icinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\cinemas\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\cinemas\\cinemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\auditoriums\\auditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\auditoriums\\auditoriumservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\auditoriums\\iauditoriumservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\auditoriums\\iauditoriumservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dto\\auditoriumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dto\\auditoriumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\movies\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\movies\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\models\\auditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\models\\auditorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\movies\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\movies\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\dto\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\dto\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\reservations\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\reservations\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\reservations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\reservations\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\transactions\\transationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\transactions\\transationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\services\\transactions\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\services\\transactions\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemafrontend\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B5D8544-F886-4478-8BDC-DB75FEC166D8}|CinemaFrontend\\CinemaFrontend.csproj|solutionrelative:cinemafrontend\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|c:\\users\\stage elmi backend\\desktop\\progetto\\cinemabackend\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771174FD-B73C-4BE5-B2C7-BE79B7BF0D62}|CinemaBackend\\CinemaBackend.csproj|solutionrelative:cinemabackend\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241016082625_InitialCreateNewDbDocker.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs",
+              "RelativeToolTip": "CinemaBackend\\Migrations\\20241016082625_InitialCreateNewDbDocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:26:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\appsettings.json",
+              "RelativeToolTip": "CinemaBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T10:23:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\TransactionApiController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\FrontControllers\\TransactionApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\TransactionApiController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\FrontControllers\\TransactionApiController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:57:52.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaFrontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\appsettings.json",
+              "RelativeToolTip": "CinemaFrontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T07:08:13.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\ReservationApiController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\FrontControllers\\ReservationApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\ReservationApiController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\FrontControllers\\ReservationApiController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:57:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvykAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:58:30.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:21:57.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Program.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Program.cs",
+              "RelativeToolTip": "CinemaFrontend\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAE8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:28:59.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:14:51.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\MoviesApiController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\FrontControllers\\MoviesApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\MoviesApiController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\FrontControllers\\MoviesApiController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:40:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CinemaApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\CinemaApiController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\FrontControllers\\CinemaApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\CinemaApiController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\FrontControllers\\CinemaApiController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:56:59.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditoriumApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\AuditoriumApiController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\FrontControllers\\AuditoriumApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\FrontControllers\\AuditoriumApiController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\FrontControllers\\AuditoriumApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:38:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T16:32:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Dockerfile",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Dockerfile",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Dockerfile",
+              "RelativeToolTip": "CinemaFrontend\\Dockerfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T07:46:40.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Dockerfile",
+              "RelativeDocumentMoniker": "CinemaBackend\\Dockerfile",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Dockerfile",
+              "RelativeToolTip": "CinemaBackend\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-16T07:44:36.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CinemaFrontend.csproj",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\CinemaFrontend.csproj",
+              "RelativeDocumentMoniker": "CinemaFrontend\\CinemaFrontend.csproj",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\CinemaFrontend.csproj",
+              "RelativeToolTip": "CinemaFrontend\\CinemaFrontend.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T10:30:11.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CinemaBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\CinemaBackend.csproj",
+              "RelativeDocumentMoniker": "CinemaBackend\\CinemaBackend.csproj",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\CinemaBackend.csproj",
+              "RelativeToolTip": "CinemaBackend\\CinemaBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T14:49:16.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:50:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Program.cs",
+              "RelativeToolTip": "CinemaBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:12:32.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Cinema.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:30:56.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:40:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:32:44.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Purchase.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Transaction\\Purchase.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Transaction\\Purchase.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Transaction\\Purchase.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Transaction\\Purchase.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:39:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:47:58.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TransactionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\TransactionDTO.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\DTO\\TransactionDTO.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\TransactionDTO.cs",
+              "RelativeToolTip": "CinemaFrontend\\DTO\\TransactionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:28:23.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Transaction\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Transaction\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Transaction\\Confirmation.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Transaction\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T09:42:21.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:35:16.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\ReservationDTO.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\DTO\\ReservationDTO.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\ReservationDTO.cs",
+              "RelativeToolTip": "CinemaFrontend\\DTO\\ReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:28:11.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Transaction.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:31:23.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminOnly.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Home\\AdminOnly.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Home\\AdminOnly.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Home\\AdminOnly.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Home\\AdminOnly.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T08:33:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Reservation.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:31:12.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaFrontend\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:36:26.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CinemaApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Controllers\\CinemaApiController.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Controllers\\CinemaApiController.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Controllers\\CinemaApiController.cs",
+              "RelativeToolTip": "CinemaBackend\\Controllers\\CinemaApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:13:06.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\DTO\\MovieDTO.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\MovieDTO.cs",
+              "RelativeToolTip": "CinemaFrontend\\DTO\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:28:03.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T11:01:01.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "CinemaFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "CinemaFrontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-14T17:52:39.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Movie.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:31:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:31:25.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T19:34:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICinemaService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Cinemas\\ICinemaService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Cinemas\\ICinemaService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Cinemas\\ICinemaService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Cinemas\\ICinemaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:58:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CinemaService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Cinemas\\CinemaService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Cinemas\\CinemaService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Cinemas\\CinemaService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Cinemas\\CinemaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:58:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAuditoriumServices.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Auditoriums\\IAuditoriumServices.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Auditoriums\\IAuditoriumServices.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Auditoriums\\IAuditoriumServices.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Auditoriums\\IAuditoriumServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:57:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuditoriumService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Auditoriums\\AuditoriumService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Auditoriums\\AuditoriumService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Auditoriums\\AuditoriumService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Auditoriums\\AuditoriumService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:57:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Auditorium.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Auditorium.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Models\\Auditorium.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Models\\Auditorium.cs",
+              "RelativeToolTip": "CinemaFrontend\\Models\\Auditorium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:30:48.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuditoriumDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\AuditoriumDTO.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\DTO\\AuditoriumDTO.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\AuditoriumDTO.cs",
+              "RelativeToolTip": "CinemaFrontend\\DTO\\AuditoriumDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:27:42.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Movies\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Movies\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Movies\\MovieService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Movies\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:59:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CinemaFrontend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:54:11.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Movies\\IMovieService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Movies\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Movies\\IMovieService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Movies\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:58:29.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CinemaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\CinemaDTO.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\DTO\\CinemaDTO.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\DTO\\CinemaDTO.cs",
+              "RelativeToolTip": "CinemaFrontend\\DTO\\CinemaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:27:54.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Reservations\\IReservationService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Reservations\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Reservations\\IReservationService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Reservations\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:59:43.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Reservations\\ReservationService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Reservations\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Reservations\\ReservationService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Reservations\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:59:54.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TransationService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Transactions\\TransationService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Transactions\\TransationService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Transactions\\TransationService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Transactions\\TransationService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:01:57.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Transactions\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Services\\Transactions\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Services\\Transactions\\ITransactionService.cs",
+              "RelativeToolTip": "CinemaFrontend\\Services\\Transactions\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:01:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CinemaFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CinemaFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:40:07.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CinemaBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:50:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Movie.cs",
+              "RelativeToolTip": "CinemaBackend\\Models\\Movie.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:53:51.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Reservation.cs",
+              "RelativeToolTip": "CinemaBackend\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:55:06.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Cinema.cs",
+              "RelativeToolTip": "CinemaBackend\\Models\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:54:19.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "CinemaBackend\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Stage ELMI Backend\\Desktop\\Progetto\\CinemaBackend\\Models\\Transaction.cs",
+              "RelativeToolTip": "CinemaBackend\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:58:04.365Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

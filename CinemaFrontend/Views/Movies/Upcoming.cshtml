@@ -1,0 +1,27 @@
+﻿@model IEnumerable<CinemaFrontend.DTO.MovieDTO>
+@{
+    ViewData["Title"] = "Upcoming Movies";
+}
+
+<div class="container">
+    <h1 class="my-4">Upcoming Movies</h1>
+
+    <div class="row">
+        @foreach (var movie in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="@movie.ImageUrl" class="card-img-top" alt="@movie.Title" style="height: 300px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@movie.Title</h5>
+                        <p class="card-text">@movie.Genre</p>
+                        <p class="card-text"><small class="text-muted">Release Date: @movie.ReleaseDate.ToShortDateString()</small></p>
+                    </div>
+                    <div class="card-footer">
+                        <a asp-action="Details" asp-route-id="@movie.Id" class="btn btn-primary btn-sm">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

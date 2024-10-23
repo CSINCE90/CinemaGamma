@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Area Amministratore";
+}
+
+<h1>Area Amministratore</h1>
+<p>Benvenuto nell'area riservata agli amministratori.</p>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Gestione Film
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Movies</h5>
+                <p class="card-text">Qui puoi gestire il catalogo dei film: aggiungere, visualizzare, modificare o eliminare i film.</p>
+                <a asp-controller="Movies" asp-action="Index" class="btn btn-primary">Vai al CRUD Movies</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                Azioni rapide
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <a asp-controller="Movies" asp-action="Create" class="btn btn-success btn-sm">Crea nuovo film</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a asp-controller="Movies" asp-action="Index" class="btn btn-info btn-sm">Lista film</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

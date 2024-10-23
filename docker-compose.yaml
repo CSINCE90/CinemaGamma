@@ -1,0 +1,60 @@
+
+
+services:
+  backend:
+    build:
+      context: ./CinemaBackend
+      dockerfile: Dockerfile
+    ports:
+      - "7294:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=CinemaGAMMA;User Id=sa;Password=Root12345!;TrustServerCertificate=True;MultipleActiveResultSets=true
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Keycloak__Authority=http://keycloak:8080/auth/realms/GammaExperience
+      - Keycloak__ClientId=AppClient
+      - Keycloak__ClientSecret=3hMyaQdf5KFE16fwq4c7ezMjYC4gREWR
+    depends_on:
+      - db
+      - keycloak
+
+  frontend:
+    build:
+      context: ./CinemaFrontend
+      dockerfile: Dockerfile
+    ports:
+      - "7020:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ApiBaseUrl=http://backend:8080/api/
+      - Keycloak__Authority=http://keycloak:8080/auth/realms/GammaExperience
+      - Keycloak__ClientId=AppClient
+      - Keycloak__ClientSecret=3hMyaQdf5KFE16fwq4c7ezMjYC4gREWR
+    depends_on:
+      - backend
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - SA_PASSWORD=Root12345!
+      - ACCEPT_EULA=Y
+    ports:
+      - "1434:1433"
+    volumes:
+      - sql_data:/var/opt/mssql    
+
+  keycloak:
+    image: quay.io/keycloak/keycloak:latest
+    environment:
+      - KEYCLOAK_ADMIN=admin
+      - KEYCLOAK_ADMIN_PASSWORD=admin
+    command: 
+      - start-dev
+    ports:
+      - "8080:8080"
+
+networks:
+  default:
+    name: cinema-network
+volumes: 
+  sql_data: 
+    driver: local
